@@ -20,3 +20,6 @@ Structured Data:
 5. Stored in relational databases
 6. About 20% of the data is structured
 7. Created and queried using [SQL](#22-SQL)
+
+Example of Structured Data:
+[](#images1.2/emp_table.PNG)
