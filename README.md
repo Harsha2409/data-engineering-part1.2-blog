@@ -22,4 +22,5 @@ Structured Data:
 7. Created and queried using [SQL](#22-SQL)
 
 Example of Structured Data:
-[](#images1.2/emp_table.PNG)
+[](images1.2/emp_table.PNG)
+[](images1.2/region_table.PNG)
