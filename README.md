@@ -22,6 +22,6 @@ Structured Data:
 7. Created and queried using [SQL](#22-SQL)
 
 Example of Structured Data:
-[!](https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/images1.2/emp_table.PNG)
+![](https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/images1.2/emp_table.PNG)
 
-[!](https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/images1.2/region_table.PNG)
+![](https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/images1.2/region_table.PNG)
